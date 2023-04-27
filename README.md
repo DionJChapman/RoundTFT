@@ -10,4 +10,4 @@ please use the following site to convert images then copy and paste the version 
 
 https://notisrac.github.io/FileToCArray/
 
-I have done my best be consitant with the colors, but if you wish a perticular colour schemm please add an iisue with the RGB hex values for each colour.
+I have done my best be consitant with the colors, but if you wish a particular colour schemm please raise an issue with the RGB hex values for each colour.
